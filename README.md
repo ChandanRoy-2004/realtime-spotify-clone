@@ -9,5 +9,5 @@
 **Technologies Used:**  
 - **Frontend:** React, TypeScript, TailwindCSS, Shadcn/ui, Zustand  
 - **Backend:** Node.js, Express.js, MongoDB, Socket.IO, JavaScript
-- 
+
 **Fully Deployed Website Link**:- https://realtime-spotify-clone-eqmb.onrender.com/
